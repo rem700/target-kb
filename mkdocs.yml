@@ -1,0 +1,54 @@
+site_name: База знаний по таргету
+site_description: Targeted ads knowledge base — Meta, TikTok
+site_url: https://rem700.github.io/target-kb/
+docs_dir: docs
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle: { icon: material/weather-night, name: Dark }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle: { icon: material/weather-sunny, name: Light }
+
+plugins:
+  - search:
+      lang: [ru, en]
+  - i18n:
+      docs_structure: folder
+      reconfigure_material: true
+      languages:
+        - locale: ru
+          default: true
+          name: Русский
+          build: true
+          site_name: База знаний по таргету
+        - locale: en
+          name: English
+          build: true
+          site_name: Targeted Ads Knowledge Base
+        - locale: uk
+          name: Українська
+          build: true
+          site_name: База знань з таргету
+
+markdown_extensions:
+  - admonition
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
