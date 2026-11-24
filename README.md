@@ -1,32 +1,46 @@
-# База знаний по таргету / Targeted Ads Knowledge Base
+# Targeted Ads Knowledge Base
 
-Сайт на MkDocs Material, 3 языка: русский (по умолчанию), English (`/en/`), українська (`/uk/`).
+A beginner-friendly knowledge base about targeted social media ads (Meta: Facebook / Instagram / Threads, plus TikTok), up to date as of November 2026.
 
-## Структура
+**Live site:** https://rem700.github.io/target-kb/
+
+Built with MkDocs Material. Three languages: Russian (default), English (`/en/`), Ukrainian (`/uk/`).
+
+## Sections
+1. Basics and numbers
+2. Meta Ads Manager
+3. Creatives
+4. Tracking and attribution
+5. Tests and problems
+6. TikTok
+7. Restrictions and moderation
+8. Non-obvious things
+9. Problem cases
+10. Changelog of platform updates
+
+## Structure
 ```
-docs/ru/   — русская версия (главная)
-docs/en/   — английская
-docs/uk/   — украинская
-mkdocs.yml — настройки сайта
-.github/workflows/deploy.yml — автопубликация на GitHub Pages
+docs/ru/   — Russian version (main)
+docs/en/   — English
+docs/uk/   — Ukrainian
+mkdocs.yml — site settings
+.github/workflows/deploy.yml — automatic publishing to GitHub Pages
 ```
-Имена файлов во всех трёх папках одинаковые: так переключатель языка ведёт на ту же страницу.
+File names are the same in all three folders, so the language switcher opens the same page in another language.
 
-## Публикация на GitHub Pages (один раз)
-1. Создать репозиторий на GitHub и загрузить в него эту папку (ветка `main`).
-2. Settings → Pages → Source: **GitHub Actions**.
-3. Адрес сайта: https://rem700.github.io/target-kb/ (прописан в `mkdocs.yml`, поле `site_url`).
-4. После каждого push в `main` сайт пересобирается сам (1–2 минуты). Статус виден во вкладке Actions.
+## Publishing
+Every push to `main` rebuilds and publishes the site automatically (1–2 minutes). Progress is visible in the Actions tab. GitHub Pages source is set to **GitHub Actions** (Settings → Pages).
 
-## Как дополнять
-- Правка статьи: изменить `.md` файл в `docs/ru/`, затем ту же правку внести в `docs/en/` и `docs/uk/`.
-- Новая статья: создать файл с одинаковым именем в трёх папках (например, `08-vk-ads.md`). Номер в начале задаёт порядок в меню. Заголовок `# ...` в первой строке становится названием в меню.
-- Если перевода пока нет, файл можно положить только в `docs/ru/`: в других языках на его месте покажется русская версия.
-- Изменения платформ записывать в `99-changelog.md`, новые записи сверху.
+## How to add content
+- **Edit a page:** change the `.md` file in `docs/ru/`, then make the same change in `docs/en/` and `docs/uk/`.
+- **New page:** create a file with the same name in all three folders (e.g. `10-google-ads.md`). The number at the start sets the menu order. The `# Heading` on the first line becomes the menu title.
+- **No translation yet?** Put the file only in `docs/ru/`: other languages will show the Russian version in its place.
+- **Platform changes** go to `99-changelog.md`, newest at the top.
+- **Reliability tags:** (official) — from the platform's own help or blog; (practice) — specialists' experience, not confirmed by the platform; (own test).
 
-## Локальный просмотр
+## Local preview
 ```
 pip install -r requirements.txt
 mkdocs serve
 ```
-Открыть http://127.0.0.1:8000
+Open http://127.0.0.1:8000

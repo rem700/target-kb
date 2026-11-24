@@ -19,7 +19,8 @@ Read in order; each section takes 5–10 minutes:
 6. [TikTok](06-tiktok.md): how it differs from Instagram
 7. [Restrictions](07-restrictions.md): what gets ads banned and which topics are under special control
 8. [Non-obvious things](08-hidden.md): hidden settings, value rules, creator ads, lead quality
-9. [What's new](99-changelog.md): a log of platform changes
+9. [Problem cases](09-problem-cases.md): 14 typical situations — from junk leads to a hacked account
+10. [What's new](99-changelog.md): a log of platform changes
 
 ## Five ideas worth remembering
 !!! tip "If you only read this"
