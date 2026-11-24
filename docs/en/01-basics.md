@@ -81,3 +81,12 @@ The robot needs about 50 actions a week to learn. Hence a quick estimate:
 **daily budget ≥ cost of one result × 50 / 7**
 
 For Anya: 9 € × 50 / 7 ≈ 64 € a day. Too much? Then ask the robot to look for a more frequent action, like "added to cart" instead of "purchased". There are more of those, so the robot learns faster.
+
+## Sources
+- [PPC Land — Meta: ad sets under 50 weekly conversions](https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/)
+- [Lebesgue — Facebook Ads learning phase](https://lebesgue.io/blog/facebook-ads-learning-phase/)
+- [WordStream — Facebook Ads Benchmarks 2026](https://www.wordstream.com/blog/facebook-ads-benchmarks-2026)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

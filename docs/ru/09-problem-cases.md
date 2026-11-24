@@ -214,3 +214,15 @@
 **Что делать.** Заменить музыку на трек из Commercial Music Library и перезапустить.
 
 **Как не допустить.** Монтировать рекламные версии роликов сразу с лицензионной музыкой. Для Meta — Sound Collection или купленная лицензия.
+
+## Источники
+- [Relevant Audience — ad account disabled: causes and appeals](https://www.relevantaudience.com/facebook-ads/facebook-ad-account-disabled/)
+- [Cropink — disabled account appeal, 180 days](https://cropink.com/facebook-ad-account-disabled-appeal)
+- [McAfee — recovering a hacked Facebook business account](https://www.mcafee.com/blogs/tips-tricks/facebook-hacked-how-to-recover-your-account-and-remove-rogue-page-admins/)
+- [Jon Loomer — lead quality is controlled outside the ads](https://pubcast.jonloomer.com/you-can-control-lead-quality-from-meta-ads/)
+- [Polygraph — why Advantage+ campaigns get fake leads](https://www.polygraph.net/articles/why-do-advantage-plus-campaigns-get-fake-leads)
+- [Lebesgue — Learning Limited explained](https://lebesgue.io/blog/facebook-ads-learning-phase/)
+
+Проверено: ноябрь 2026.
+
+--8<-- "abbr-ru.md"

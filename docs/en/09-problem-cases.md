@@ -214,3 +214,15 @@ Real situations almost everyone who runs ads ends up in. Each one has: what you 
 **What to do.** Replace the music with a track from the Commercial Music Library and relaunch.
 
 **How to avoid it.** Edit ad versions of your videos with licensed music from the start. For Meta — Sound Collection or a purchased licence.
+
+## Sources
+- [Relevant Audience — ad account disabled: causes and appeals](https://www.relevantaudience.com/facebook-ads/facebook-ad-account-disabled/)
+- [Cropink — disabled account appeal, 180 days](https://cropink.com/facebook-ad-account-disabled-appeal)
+- [McAfee — recovering a hacked Facebook business account](https://www.mcafee.com/blogs/tips-tricks/facebook-hacked-how-to-recover-your-account-and-remove-rogue-page-admins/)
+- [Jon Loomer — lead quality is controlled outside the ads](https://pubcast.jonloomer.com/you-can-control-lead-quality-from-meta-ads/)
+- [Polygraph — why Advantage+ campaigns get fake leads](https://www.polygraph.net/articles/why-do-advantage-plus-campaigns-get-fake-leads)
+- [Lebesgue — Learning Limited explained](https://lebesgue.io/blog/facebook-ads-learning-phase/)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

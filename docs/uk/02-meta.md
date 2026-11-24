@@ -75,3 +75,14 @@
 - [ ] Посилання, форму, телефон перевірено власноруч.
 - [ ] Бюджет не менший за мінімальний (див. «Основи та цифри»).
 - [ ] Пообіцяти собі 3–7 днів нічого не чіпати.
+
+## Джерела
+- [Nowoka — Advantage+, Andromeda and creative guide 2026](https://nowoka.com/blog/meta-ads-andromeda-advantage-plus-guide-2026/)
+- [Meta for Developers — Removal of detailed targeting exclusions](https://developers.facebook.com/blog/post/2025/01/21/removal-of-detailed-targeting-exclusions/)
+- [Wicked Reports — exclusions removal timeline](https://www.wickedreports.com/blog/meta-removes-detailed-targeting-exclusions-from-ad-campaigns)
+- [Jon Loomer — A guide to Meta Ads targeting in 2026](https://www.jonloomer.com/meta-ads-targeting-2026/)
+- [AdAdvisor — Meta Ads updates 2026](https://adadvisor.ai/blog/meta-ads-updates-2026)
+
+Перевірено: листопад 2026.
+
+--8<-- "abbr-uk.md"

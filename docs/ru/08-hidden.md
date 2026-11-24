@@ -91,3 +91,16 @@ Meta по умолчанию засчитывает покупку, если о�
 - **Показ по расписанию** (только днём, только в будни) работает только с бюджетом на весь срок, не с дневным.
 - **Лимиты расходов** на кампанию и аккаунт: если реклама внезапно остановилась, проверьте, не упёрлись ли вы в старый лимит.
 - **Перенос объявления через ID поста** сохраняет лайки и комментарии. Чем больше живых комментариев, тем больше доверия и, по наблюдениям, тем лучше работает объявление.
+
+## Источники
+- [Anar Agency — Meta Ads settings to turn off](https://anaragency.com/blog/hidden-meta-ads-settings/)
+- [AdsUploader — Andromeda and Entity IDs](https://adsuploader.com/blog/meta-andromeda)
+- [eMarketer — Meta expands partnership ads](https://www.emarketer.com/content/meta-expands-partnership-ads-turn-creator-content-performance)
+- [Jon Loomer — Value rules deep dive](https://www.jonloomer.com/value-rules/)
+- [Jon Loomer — Opportunity Score explained](https://www.jonloomer.com/opportunity-score-campaign-score/)
+- [Meta for Developers — Conversions API for CRM](https://developers.facebook.com/docs/marketing-api/conversions-api/conversion-leads-integration)
+- [Zapier — Meta CAPI for CRM and lead quality](https://zapier.com/blog/meta-guide-to-better-lead-quality/)
+
+Проверено: ноябрь 2026.
+
+--8<-- "abbr-ru.md"

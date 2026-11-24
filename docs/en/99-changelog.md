@@ -27,3 +27,14 @@ Tags: (official) announced by the platform itself; (unconfirmed) reported by spe
 - Meta: facebook.com/business/news, Jon Loomer's blog (jonloomer.com)
 - TikTok: ads.tiktok.com/business/blog
 - Industry news: ppc.land, socialmediatoday.com, searchengineland.com
+
+## Sources
+- [AdAdvisor — Meta Ads updates 2026](https://adadvisor.ai/blog/meta-ads-updates-2026)
+- [Search Engine Land — attribution update, March 2026](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629)
+- [Meta for Developers — removal of detailed targeting exclusions](https://developers.facebook.com/blog/post/2025/01/21/removal-of-detailed-targeting-exclusions/)
+- [Meta — political ads in the EU](https://about.fb.com/news/2025/07/ending-political-electoral-and-social-issue-advertising-in-the-eu/)
+- [TikTok — Smart+ updates](https://ads.tiktok.com/business/en/blog/smart-plus-ai-performance-solution)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

@@ -91,3 +91,16 @@ Meta за замовчуванням зараховує покупку, якщо
 - **Показ за розкладом** (лише вдень, лише в будні) працює тільки з бюджетом на весь термін, не з денним.
 - **Ліміти витрат** на кампанію й акаунт: якщо реклама раптом зупинилася, перевірте, чи не вперлися ви в старий ліміт.
 - **Перенесення оголошення через ID поста** зберігає вподобання й коментарі. Що більше живих коментарів, то більше довіри і, за спостереженнями, то краще працює оголошення.
+
+## Джерела
+- [Anar Agency — Meta Ads settings to turn off](https://anaragency.com/blog/hidden-meta-ads-settings/)
+- [AdsUploader — Andromeda and Entity IDs](https://adsuploader.com/blog/meta-andromeda)
+- [eMarketer — Meta expands partnership ads](https://www.emarketer.com/content/meta-expands-partnership-ads-turn-creator-content-performance)
+- [Jon Loomer — Value rules deep dive](https://www.jonloomer.com/value-rules/)
+- [Jon Loomer — Opportunity Score explained](https://www.jonloomer.com/opportunity-score-campaign-score/)
+- [Meta for Developers — Conversions API for CRM](https://developers.facebook.com/docs/marketing-api/conversions-api/conversion-leads-integration)
+- [Zapier — Meta CAPI for CRM and lead quality](https://zapier.com/blog/meta-guide-to-better-lead-quality/)
+
+Перевірено: листопад 2026.
+
+--8<-- "abbr-uk.md"

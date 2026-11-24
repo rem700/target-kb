@@ -63,3 +63,13 @@ utm_source={{site_source_name}}&utm_medium=paid_social&utm_campaign={{campaign.n
 - [ ] Покупки не задваиваются.
 - [ ] Событие, на которое оптимизируется реклама, приходит и не помечено как ограниченное.
 - [ ] Раз в неделю сравнивать заявки в кабинете и в CRM. Разница больше 30% — повод искать проблему.
+
+## Источники
+- [Search Engine Land — click and engage-through attribution](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629)
+- [Jon Loomer — How Meta Ads attribution works in 2026](https://www.jonloomer.com/meta-ads-attribution-2026/)
+- [Dataslayer — attribution window changes, January 2026](https://www.dataslayer.ai/blog/meta-ads-attribution-window-removed-january-2026)
+- [Digital Applied — click-through attribution change 2026](https://www.digitalapplied.com/blog/meta-ads-click-through-attribution-change-2026-what-changed)
+
+Проверено: ноябрь 2026.
+
+--8<-- "abbr-ru.md"

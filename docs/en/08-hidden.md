@@ -91,3 +91,16 @@ Ads Manager has an **Opportunity Score**: a score from 0 to 100 and a list of re
 - **Ad scheduling** (daytime only, weekdays only) works only with a lifetime budget, not a daily one.
 - **Spending limits** on the campaign and account: if ads suddenly stopped, check whether you hit an old limit.
 - **Moving an ad by post ID** keeps likes and comments. The more real comments, the more trust — and, by many accounts, the better the ad performs.
+
+## Sources
+- [Anar Agency — Meta Ads settings to turn off](https://anaragency.com/blog/hidden-meta-ads-settings/)
+- [AdsUploader — Andromeda and Entity IDs](https://adsuploader.com/blog/meta-andromeda)
+- [eMarketer — Meta expands partnership ads](https://www.emarketer.com/content/meta-expands-partnership-ads-turn-creator-content-performance)
+- [Jon Loomer — Value rules deep dive](https://www.jonloomer.com/value-rules/)
+- [Jon Loomer — Opportunity Score explained](https://www.jonloomer.com/opportunity-score-campaign-score/)
+- [Meta for Developers — Conversions API for CRM](https://developers.facebook.com/docs/marketing-api/conversions-api/conversion-leads-integration)
+- [Zapier — Meta CAPI for CRM and lead quality](https://zapier.com/blog/meta-guide-to-better-lead-quality/)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

@@ -55,3 +55,13 @@ Meta вміє сама домальовувати фон, розтягувати
 - **Meta Ad Library** — бібліотека всієї активної реклами. Можна подивитися, що крутять конкуренти. Якщо оголошення висить кілька місяців, найімовірніше, воно приносить гроші.
 - **TikTok Creative Center** — тренди й популярна реклама.
 - **Запитання та коментарі покупців** — готові ідеї для зачіпок. Якщо п'ятеро людей спитали «а скільки вона горить?», це і є перша фраза відео.
+
+## Джерела
+- [Cordelia Labs — Meta ads updates 2026: creative as targeting](https://cordelialabs.com/blog/facebook-changes-you-need-to-know-in-2025)
+- [The Interconnections — Meta Ads 2026: creative fatigue](https://www.theinterconnections.com/blog/meta-ads-2026)
+- [Stackmatix — Meta Ads strategy 2026](https://www.stackmatix.com/blog/meta-ads-strategy)
+- [Atria — Andromeda creative strategy guide](https://www.tryatria.com/blog/meta-andromeda)
+
+Перевірено: листопад 2026.
+
+--8<-- "abbr-uk.md"

@@ -11,6 +11,9 @@ theme:
     - navigation.footer
     - search.highlight
     - content.code.copy
+    - content.tooltips
+    - navigation.sections
+    - navigation.indexes
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -20,6 +23,38 @@ theme:
       scheme: slate
       primary: indigo
       toggle: { icon: material/weather-sunny, name: Light }
+
+nav:
+  - index.md
+  - Старт:
+      - 01-basics.md
+      - glossary.md
+      - platforms.md
+      - setup.md
+      - billing.md
+  - Запуск рекламы:
+      - 02-meta.md
+      - 03-creatives.md
+      - copywriting.md
+      - landing.md
+      - messaging.md
+      - 04-tracking.md
+      - 06-tiktok.md
+  - Рост и анализ:
+      - 05-testing.md
+      - benchmarks.md
+      - calendar.md
+      - organic-paid.md
+      - 08-hidden.md
+  - Практика:
+      - case-study.md
+      - playbooks.md
+      - templates.md
+      - 09-problem-cases.md
+  - Правила:
+      - 07-restrictions.md
+      - legal.md
+  - 99-changelog.md
 
 plugins:
   - search:
@@ -37,10 +72,26 @@ plugins:
           name: English
           build: true
           site_name: Targeted Ads Knowledge Base
+          nav_translations:
+            Старт: Getting started
+            Запуск рекламы: Launching ads
+            Рост и анализ: Growth and analysis
+            Практика: Practice
+            Правила: Rules
         - locale: uk
           name: Українська
           build: true
           site_name: База знань з таргету
+          nav_translations:
+            Старт: Старт
+            Запуск рекламы: Запуск реклами
+            Рост и анализ: Зростання та аналіз
+            Практика: Практика
+            Правила: Правила
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: false
 
 markdown_extensions:
   - admonition
@@ -52,3 +103,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      base_path: [includes]
+      check_paths: true

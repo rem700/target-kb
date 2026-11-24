@@ -81,3 +81,12 @@
 **дневной бюджет ≥ цена одного результата × 50 / 7**
 
 Для Ани: 9 € × 50 / 7 ≈ 64 € в день. Многовато? Тогда можно просить робота искать более частое действие, например «добавил в корзину» вместо «купил». Таких действий больше, и робот научится быстрее.
+
+## Источники
+- [PPC Land — Meta: ad sets under 50 weekly conversions](https://ppc.land/meta-says-ad-sets-under-50-weekly-conversions-cost-28-more-per-purchase/)
+- [Lebesgue — Facebook Ads learning phase](https://lebesgue.io/blog/facebook-ads-learning-phase/)
+- [WordStream — Facebook Ads Benchmarks 2026](https://www.wordstream.com/blog/facebook-ads-benchmarks-2026)
+
+Проверено: ноябрь 2026.
+
+--8<-- "abbr-ru.md"

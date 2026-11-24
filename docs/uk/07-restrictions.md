@@ -61,3 +61,13 @@
 
 ## Музика
 У рекламі Meta використовуйте лише музику з Sound Collection (безкоштовна бібліотека Meta) або куплену ліцензію. Популярний трек зі звичайних Reels у рекламі може призвести до відхилення або вимкнення звуку.
+
+## Джерела
+- [Search Engine Land — health and wellness restrictions](https://searchengineland.com/meta-ads-restrictions-health-wellness-campaigns-453094)
+- [AbleCDP — Meta healthcare restrictions in the EU](https://www.ablecdp.com/blog/meta-healthcare-restrictions)
+- [Accelerated Digital Media — health ad policies 2026](https://www.accelerateddigitalmedia.com/insights/guide-to-social-media-health-ad-restrictions-2026/)
+- [Meta — ending political and social issue ads in the EU](https://about.fb.com/news/2025/07/ending-political-electoral-and-social-issue-advertising-in-the-eu/)
+
+Перевірено: листопад 2026.
+
+--8<-- "abbr-uk.md"

@@ -9,18 +9,24 @@ You pay a social network to show your post to people who don't follow you yet. T
 One example runs through this whole base. Anya makes handmade candles and sells them on her website. She has an Instagram account, a small ad budget and no ad specialist friends. Everything below, we'll try on her.
 
 ## Where to start
-Read in order; each section takes 5–10 minutes:
+**If you're a complete beginner**, follow this route: [Basics and numbers](01-basics.md) → [Setting up from scratch](setup.md) → [Meta Ads Manager](02-meta.md) → [Creatives](03-creatives.md) → [Tracking](04-tracking.md) → [Anya's campaign from start to finish](case-study.md). Each section takes 5–10 minutes.
 
-1. [Basics and numbers](01-basics.md): the words and numbers you need to not get lost
-2. [Meta Ads Manager](02-meta.md): how a campaign is built and which buttons matter
-3. [Creatives](03-creatives.md): why the image and video decide almost everything
-4. [Tracking](04-tracking.md): how to tell whether ads actually bring customers
-5. [Tests and problems](05-testing.md): how to try new things and what to do when ads don't work
-6. [TikTok](06-tiktok.md): how it differs from Instagram
-7. [Restrictions](07-restrictions.md): what gets ads banned and which topics are under special control
-8. [Non-obvious things](08-hidden.md): hidden settings, value rules, creator ads, lead quality
-9. [Problem cases](09-problem-cases.md): 14 typical situations — from junk leads to a hacked account
-10. [What's new](99-changelog.md): a log of platform changes
+**Getting started**
+: [Basics and numbers](01-basics.md) · [Glossary](glossary.md) · [Choosing a platform](platforms.md) · [Setting up from scratch](setup.md) · [Payment, invoices and taxes](billing.md)
+
+**Launching ads**
+: [Meta Ads Manager](02-meta.md) · [Creatives](03-creatives.md) · [Copywriting formulas](copywriting.md) · [Where the ad leads](landing.md) · [Ads that open a chat](messaging.md) · [Tracking](04-tracking.md) · [TikTok](06-tiktok.md)
+
+**Growth and analysis**
+: [Tests and problems](05-testing.md) · [Benchmarks](benchmarks.md) · [Seasonal calendar](calendar.md) · [Organic posts and ads](organic-paid.md) · [Non-obvious things](08-hidden.md)
+
+**Practice**
+: [Anya's full campaign](case-study.md) · [Playbooks by business type](playbooks.md) · [Templates](templates.md) · [Problem cases](09-problem-cases.md)
+
+**Rules**
+: [Restrictions and moderation](07-restrictions.md) · [Law and transparency](legal.md)
+
+**[What's new](99-changelog.md)** — a log of platform changes.
 
 ## Five ideas worth remembering
 !!! tip "If you only read this"
@@ -35,3 +41,7 @@ Read in order; each section takes 5–10 minutes:
 - Something changed on a platform: add it to the changelog.
 - Your own experiment: "What we wanted to check → what we did → what happened → conclusion".
 - Tags: (official) the platform says so itself; (practice) specialists say so, not officially confirmed.
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

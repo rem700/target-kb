@@ -55,3 +55,13 @@ Meta can extend backgrounds, stretch an image to fit a format, turn a photo into
 - **Meta Ad Library** — a library of all active ads. See what competitors are running. If an ad has been live for months, it's probably making money.
 - **TikTok Creative Center** — trends and popular ads.
 - **Customer questions and comments** — ready-made hooks. If five people asked "how long does it burn?", that's your video's first line.
+
+## Sources
+- [Cordelia Labs — Meta ads updates 2026: creative as targeting](https://cordelialabs.com/blog/facebook-changes-you-need-to-know-in-2025)
+- [The Interconnections — Meta Ads 2026: creative fatigue](https://www.theinterconnections.com/blog/meta-ads-2026)
+- [Stackmatix — Meta Ads strategy 2026](https://www.stackmatix.com/blog/meta-ads-strategy)
+- [Atria — Andromeda creative strategy guide](https://www.tryatria.com/blog/meta-andromeda)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

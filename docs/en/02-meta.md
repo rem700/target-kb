@@ -75,3 +75,14 @@ If you sell a service, two options work well:
 - [ ] Link, form and phone checked with your own hands.
 - [ ] The budget isn't below the minimum (see "Basics and numbers").
 - [ ] Promise yourself not to touch anything for 3–7 days.
+
+## Sources
+- [Nowoka — Advantage+, Andromeda and creative guide 2026](https://nowoka.com/blog/meta-ads-andromeda-advantage-plus-guide-2026/)
+- [Meta for Developers — Removal of detailed targeting exclusions](https://developers.facebook.com/blog/post/2025/01/21/removal-of-detailed-targeting-exclusions/)
+- [Wicked Reports — exclusions removal timeline](https://www.wickedreports.com/blog/meta-removes-detailed-targeting-exclusions-from-ad-campaigns)
+- [Jon Loomer — A guide to Meta Ads targeting in 2026](https://www.jonloomer.com/meta-ads-targeting-2026/)
+- [AdAdvisor — Meta Ads updates 2026](https://adadvisor.ai/blog/meta-ads-updates-2026)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

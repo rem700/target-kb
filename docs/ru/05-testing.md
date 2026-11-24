@@ -56,3 +56,12 @@
 - **Каждый день, 5 минут:** сколько потратили, сколько результатов, нет ли отклонённых объявлений и проблем с оплатой.
 - **Раз в неделю:** выключить слабые объявления, добавить новые ролики, сверить заявки с реальными продажами.
 - **Раз в месяц:** пересчитать, сколько можно тратить на клиента, и решить, что масштабировать.
+
+## Источники
+- [Madgicx — media buying strategies on Meta](https://madgicx.com/answers/which-media-buying-strategies-work-on-meta)
+- [Jon Loomer — 19 rules for successful Meta advertising](https://www.jonloomer.com/19-rules-of-successful-meta-advertising/)
+- [PixelFlow — Meta Ads checklist 2026](https://pixelflow.so/blog/meta-ads-checklist-2026)
+
+Проверено: ноябрь 2026.
+
+--8<-- "abbr-ru.md"

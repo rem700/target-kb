@@ -63,3 +63,13 @@ Simple ways to check whether ads work:
 - [ ] Purchases aren't doubled.
 - [ ] The event your ads optimize for is arriving and isn't marked as restricted.
 - [ ] Once a week compare leads in Ads Manager and in your CRM. A gap above 30% is a reason to look for a problem.
+
+## Sources
+- [Search Engine Land — click and engage-through attribution](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629)
+- [Jon Loomer — How Meta Ads attribution works in 2026](https://www.jonloomer.com/meta-ads-attribution-2026/)
+- [Dataslayer — attribution window changes, January 2026](https://www.dataslayer.ai/blog/meta-ads-attribution-window-removed-january-2026)
+- [Digital Applied — click-through attribution change 2026](https://www.digitalapplied.com/blog/meta-ads-click-through-attribution-change-2026-what-changed)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"

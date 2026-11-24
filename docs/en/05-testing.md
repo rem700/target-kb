@@ -56,3 +56,12 @@ Find the symptom and check the likely causes.
 - **Daily, 5 minutes:** how much was spent, how many results, any rejected ads or payment issues.
 - **Weekly:** switch off weak ads, add new videos, compare leads with real sales.
 - **Monthly:** recalculate how much you can spend per customer and decide what to scale.
+
+## Sources
+- [Madgicx — media buying strategies on Meta](https://madgicx.com/answers/which-media-buying-strategies-work-on-meta)
+- [Jon Loomer — 19 rules for successful Meta advertising](https://www.jonloomer.com/19-rules-of-successful-meta-advertising/)
+- [PixelFlow — Meta Ads checklist 2026](https://pixelflow.so/blog/meta-ads-checklist-2026)
+
+Checked: November 2026.
+
+--8<-- "abbr-en.md"
