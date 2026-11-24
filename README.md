@@ -7,16 +7,14 @@ A beginner-friendly knowledge base about targeted social media ads (Meta: Facebo
 Built with MkDocs Material. Three languages: Russian (default), English (`/en/`), Ukrainian (`/uk/`).
 
 ## Sections
-1. Basics and numbers
-2. Meta Ads Manager
-3. Creatives
-4. Tracking and attribution
-5. Tests and problems
-6. TikTok
-7. Restrictions and moderation
-8. Non-obvious things
-9. Problem cases
-10. Changelog of platform updates
+- **Getting started:** basics and numbers, glossary, choosing a platform, setting up from scratch, payment/invoices/taxes
+- **Launching ads:** Meta Ads Manager, creatives, copywriting formulas, landing pages, click-to-chat ads, tracking, TikTok
+- **Growth and analysis:** tests and problems, benchmarks, seasonal calendar, organic + paid, non-obvious things
+- **Practice:** a full example campaign, playbooks by business type, templates, problem cases
+- **Rules:** restrictions and moderation, law and transparency (EU)
+- **What's new:** changelog of platform updates
+
+Every page ends with a **Sources** list and a "Checked" date. Abbreviations (CPM, CTR, CAPI…) show a tooltip on hover.
 
 ## Structure
 ```
@@ -33,7 +31,7 @@ Every push to `main` rebuilds and publishes the site automatically (1–2 minute
 
 ## How to add content
 - **Edit a page:** change the `.md` file in `docs/ru/`, then make the same change in `docs/en/` and `docs/uk/`.
-- **New page:** create a file with the same name in all three folders (e.g. `10-google-ads.md`). The number at the start sets the menu order. The `# Heading` on the first line becomes the menu title.
+- **New page:** create a file with the same name in all three folders (e.g. `google-ads.md`) and add it to the `nav` section in `mkdocs.yml` (menu groups are translated via `nav_translations`). The `# Heading` on the first line becomes the menu title. End the page with a `## Sources` list, a "Checked" date and the tooltip include line, e.g. `--8<-- "abbr-en.md"` (tooltip texts live in `includes/`).
 - **No translation yet?** Put the file only in `docs/ru/`: other languages will show the Russian version in its place.
 - **Platform changes** go to `99-changelog.md`, newest at the top.
 - **Reliability tags:** (official) — from the platform's own help or blog; (practice) — specialists' experience, not confirmed by the platform; (own test).
