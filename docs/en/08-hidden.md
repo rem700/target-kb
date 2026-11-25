@@ -44,8 +44,8 @@ When you set up an audience, age, gender, interests and your own audiences are *
 ## 3. Similar ads get merged
 Andromeda groups ads that are similar in meaning and look into one "entity" (specialists call it an Entity ID). One such group gets one "seat" in the selection. So 30 nearly identical videos can act as one, and Meta will only spend on a few of them. (practice)
 
-- Specialists observe that delivery gets limited once ads are more than about 60% similar. That's not an official Meta figure. (practice)
-- Some accounts have a Creative Similarity report in the analytics section.
+- Ads Manager now has an official **Creative diversity** column rating an ad set High / Medium / Low. Meta compares images and video thumbnails with each other; a low rating means the ads look too alike. Meta calls the metric estimated and in development. (official)
+- Meta doesn't publish an exact similarity threshold. Specialists cite 60–65%, but that's observation, not a rule. (practice) [clarified 11.2026]
 
 **Takeaway:** don't churn out versions with a different button colour. Make different ideas: problem, review, process, gift, humour.
 
@@ -93,6 +93,7 @@ Ads Manager has an **Opportunity Score**: a score from 0 to 100 and a list of re
 - **Moving an ad by post ID** keeps likes and comments. The more real comments, the more trust — and, by many accounts, the better the ad performs.
 
 ## Sources
+- [Oakgen — Meta creative diversity score](https://oakgen.ai/blog/meta-creative-diversity-score)
 - [Anar Agency — Meta Ads settings to turn off](https://anaragency.com/blog/hidden-meta-ads-settings/)
 - [AdsUploader — Andromeda and Entity IDs](https://adsuploader.com/blog/meta-andromeda)
 - [eMarketer — Meta expands partnership ads](https://www.emarketer.com/content/meta-expands-partnership-ads-turn-creator-content-performance)

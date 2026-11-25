@@ -21,6 +21,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - name: Check that all languages have the same pages
+        run: python scripts/check_structure.py
       - run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v3
         with:

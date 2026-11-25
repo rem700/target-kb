@@ -10,7 +10,7 @@
 ## WhatsApp: бесплатное окно
 Если клиент начал переписку с вашим WhatsApp Business через рекламу, открывается **бесплатное окно**: сообщения в этом разговоре не тарифицируются. Стандартно это 72 часа. (офиц.)
 
-По сообщениям сервисов для WhatsApp Business, с 28 сентября 2026 окно стало до 7 дней. (не подтверждено официально)
+С 28 сентября 2026 окно увеличено **до 7 дней**: это указано на официальной странице цен WhatsApp Business. Чтобы окно открылось, нужно ответить клиенту в течение 24 часов. (офиц.)
 
 Отдельно действует правило 24 часов: если клиент не писал вам больше суток, первым можно отправить только заранее одобренный шаблон сообщения.
 
@@ -48,6 +48,7 @@
 - Цена переписки и цена клиента. Дешёвая переписка без продаж — не успех.
 
 ## Источники
+- [WhatsApp Business — platform pricing](https://business.whatsapp.com/products/platform-pricing)
 - [Twilio: реклама с переходом в WhatsApp, 2026](https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio)
 - [SleekFlow: окно 72 часа и окно 24 часа](https://help.sleekflow.io/en_US/whatsapp/understanding-click-to-whatsapp-ads-ctwa-and-the-72-hour-free-window)
 - [Wati: изменение окна для рекламы в WhatsApp](https://support.wati.io/es/articles/11463597-comprender-el-limite-de-mensajes-para-anuncios-de-clic-a-whatsapp-ctwa)

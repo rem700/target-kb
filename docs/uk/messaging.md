@@ -10,7 +10,7 @@
 ## WhatsApp: безкоштовне вікно
 Якщо клієнт почав листування з вашим WhatsApp Business через рекламу, відкривається **безкоштовне вікно**: повідомлення в цій розмові не тарифікуються. Стандартно це 72 години. (офіц.)
 
-За повідомленнями сервісів для WhatsApp Business, з 28 вересня 2026 вікно стало до 7 днів. (не підтверджено офіційно)
+З 28 вересня 2026 вікно збільшено **до 7 днів**: це вказано на офіційній сторінці цін WhatsApp Business. Щоб вікно відкрилося, треба відповісти клієнтові протягом 24 годин. (офіц.)
 
 Окремо діє правило 24 годин: якщо клієнт не писав вам понад добу, першим можна надіслати лише заздалегідь схвалений шаблон повідомлення.
 
@@ -48,6 +48,7 @@
 - Ціна листування й ціна клієнта. Дешеве листування без продажів — не успіх.
 
 ## Джерела
+- [WhatsApp Business — platform pricing](https://business.whatsapp.com/products/platform-pricing)
 - [Twilio: реклама з переходом у WhatsApp, 2026](https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio)
 - [SleekFlow: вікно 72 години й вікно 24 години](https://help.sleekflow.io/en_US/whatsapp/understanding-click-to-whatsapp-ads-ctwa-and-the-72-hour-free-window)
 - [Wati: зміна вікна для реклами у WhatsApp](https://support.wati.io/es/articles/11463597-comprender-el-limite-de-mensajes-para-anuncios-de-clic-a-whatsapp-ctwa)

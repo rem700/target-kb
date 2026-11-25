@@ -10,7 +10,7 @@ If a creator promotes your product for money, barter or a gift, it must be clear
 - The platform label may not fully satisfy the law. In some countries regulators also expect an explicit word like "ad" in the text. (practice)
 - Responsibility can fall on the brand, not just the creator. Put labelling in the contract.
 
-If you run a creator's post as an ad, use the **partnership ad** format. Specialists report that in 2026 Meta made it mandatory for branded content in paid ads. (not officially confirmed)
+If you run a creator's post as an ad, the most convenient format is a **partnership ad**: it shows under both accounts and carries the partnership label automatically. In 2026 trade media reported that Meta made this format mandatory for branded content. Checking found no such published Meta policy, so treat it as a recommendation, not a requirement. [clarified 11.2026]
 
 ## Ad transparency in the EU (DSA)
 Under the EU Digital Services Act, large platforms must keep a public ad archive.
@@ -41,6 +41,7 @@ EU rules govern how discounts are shown: if you write "−30%", the discount sho
 - You can't use a real person's face or voice in an ad without their consent.
 
 ## Sources
+- [Cohley — are partnership ads mandatory?](https://www.cohley.com/blog/meta-partnership-ads-mandatory)
 - [Instagram: the "Paid partnership" label](https://help.instagram.com/android-app/1109894795810258)
 - [Meta: Ad Library tools](https://transparency.meta.com/researchtools/ad-library-tools)
 - [PPC Land: the Ad Library and the DSA](https://ppc.land/ads-library/)

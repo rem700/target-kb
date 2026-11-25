@@ -10,6 +10,16 @@ Every Meta ad is like a nesting doll with three layers:
 !!! example "Anya's example"
     Campaign "Christmas candle sales" → ad set "Hungary, ages 22–55, 20 € a day" → three ads: a video of a candle being lit; a photo of the gift box; a customer review.
 
+
+```mermaid
+flowchart LR
+    K["Campaign<br/>objective"] --> G1["Ad set<br/>audience, budget, placements"]
+    K --> G2["Ad set"]
+    G1 --> A1["Ad<br/>video + text"]
+    G1 --> A2["Ad"]
+    G1 --> A3["Ad"]
+```
+
 ## Mini-glossary: 10 words you can't do without
 **Optimization**
 : what you ask the robot to find. Clicks? Leads? Purchases? It will look for exactly that.
@@ -66,6 +76,11 @@ A person goes: saw it → clicked → visited the site → bought. Each step has
 - **They see it but don't click (low CTR)**: the ad doesn't grab attention or the offer isn't interesting.
 - **They click but don't buy**: something's wrong on the site. It loads slowly, is awkward on a phone, the price scares people off, or the form is broken.
 - **They leave requests but don't buy**: the leads are junk. For example, people tapped by accident.
+
+```mermaid
+flowchart LR
+    S["Saw it<br/>CPM"] --> C["Clicked<br/>CTR"] --> V["Visited the site<br/>CR"] --> B["Bought<br/>CPA"]
+```
 
 ## How much you can spend per customer
 Work this out before launch, or you won't know whether the ads are doing well or badly.

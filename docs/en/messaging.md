@@ -10,7 +10,7 @@ Instead of a site or form, the ad opens a chat: Instagram Direct, Messenger or W
 ## WhatsApp: the free window
 If a customer starts a chat with your WhatsApp Business from an ad, a **free window** opens: messages in that conversation aren't charged. The standard window is 72 hours. (official)
 
-According to WhatsApp Business service providers, since 28 September 2026 the window is up to 7 days. (not officially confirmed)
+Since 28 September 2026 the window is **up to 7 days**: this is stated on the official WhatsApp Business pricing page. To open the window, you must reply to the customer within 24 hours. (official)
 
 Separately, the 24-hour rule applies: if the customer hasn't written to you for over a day, you can only start with a pre-approved message template.
 
@@ -48,6 +48,7 @@ The most common situation. What helps:
 - Cost per chat and cost per customer. Cheap chats without sales aren't a success.
 
 ## Sources
+- [WhatsApp Business — platform pricing](https://business.whatsapp.com/products/platform-pricing)
 - [Twilio: click-to-WhatsApp ads, 2026](https://www.twilio.com/en-us/blog/products/2026-guide-to-create-ads-that-click-to-whatsapp-with-twilio)
 - [SleekFlow: the 72-hour and 24-hour windows](https://help.sleekflow.io/en_US/whatsapp/understanding-click-to-whatsapp-ads-ctwa-and-the-72-hour-free-window)
 - [Wati: change to the click-to-WhatsApp window](https://support.wati.io/es/articles/11463597-comprender-el-limite-de-mensajes-para-anuncios-de-clic-a-whatsapp-ctwa)

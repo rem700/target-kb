@@ -7,10 +7,10 @@ A beginner-friendly knowledge base about targeted social media ads (Meta: Facebo
 Built with MkDocs Material. Three languages: Russian (default), English (`/en/`), Ukrainian (`/uk/`).
 
 ## Sections
-- **Getting started:** basics and numbers, glossary, choosing a platform, setting up from scratch, payment/invoices/taxes
-- **Launching ads:** Meta Ads Manager, creatives, copywriting formulas, landing pages, click-to-chat ads, tracking, TikTok
-- **Growth and analysis:** tests and problems, benchmarks, seasonal calendar, organic + paid, non-obvious things
-- **Practice:** a full example campaign, playbooks by business type, templates, problem cases
+- **Getting started:** basics and numbers, glossary, interface names (EN/RU/UK/HU), choosing a platform, setting up from scratch, payment/invoices/taxes
+- **Launching ads:** Meta Ads Manager, warm audiences and the funnel, creatives, filming on a phone, copywriting formulas, ads in several languages, landing pages, click-to-chat ads, new placements, tracking, TikTok
+- **Growth and analysis:** reading reports, tests and problems, benchmarks, seasonal calendar, organic + paid, AI in practice, non-obvious things
+- **Practice:** a full example campaign, playbooks by business type, templates, working with a contractor, problem cases
 - **Rules:** restrictions and moderation, law and transparency (EU)
 - **What's new:** changelog of platform updates
 
@@ -35,6 +35,15 @@ Every push to `main` rebuilds and publishes the site automatically (1–2 minute
 - **No translation yet?** Put the file only in `docs/ru/`: other languages will show the Russian version in its place.
 - **Platform changes** go to `99-changelog.md`, newest at the top.
 - **Reliability tags:** (official) — from the platform's own help or blog; (practice) — specialists' experience, not confirmed by the platform; (own test).
+
+## Automatic checks
+- **On every push** (`deploy.yml`): `scripts/check_structure.py` verifies that all three languages have the same pages, every page is in the nav and has a "Checked" date and the tooltip include; then `mkdocs build --strict` fails on broken internal links.
+- **Every Monday** (`links.yml`): external links are checked; if any are broken, a GitHub issue is opened.
+
+## Other site features
+- **Edit button** (pencil icon) on every page opens the file on GitHub for editing in the browser.
+- **Diagrams** are written in Mermaid inside ```` ```mermaid ```` blocks.
+- **Page descriptions** for search engines and social previews are taken from the first paragraph automatically (`hooks/page_description.py`); set `description:` in a page's front matter to override.
 
 ## Local preview
 ```

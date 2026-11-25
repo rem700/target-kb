@@ -1,0 +1,27 @@
+name: Check external links
+on:
+  schedule:
+    - cron: "23 6 * * 1"   # every Monday
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links in docs
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 2 --timeout 20 --accept 200,201,202,203,204,206,301,302,303,307,308,403,429 'docs/**/*.md'
+          fail: false
+          output: lychee/report.md
+      - name: Open an issue if links are broken
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links found in the knowledge base
+          content-filepath: lychee/report.md
+          labels: links

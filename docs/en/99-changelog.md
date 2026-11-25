@@ -6,7 +6,12 @@ Tags: (official) announced by the platform itself; (unconfirmed) reported by spe
 
 ## 2026
 - **October, Meta.** Poll ads on Facebook removed.
-- **September, Meta** (unconfirmed). The free messaging window after WhatsApp ads grew to 7 days. You can now advertise on Threads without an Instagram account. Ads appeared in Instagram live streams.
+- **September, Meta.** Creative diversity column in Ads Manager (estimated). Partnership ads available in WhatsApp Status. (practice)
+- **28 September, WhatsApp.** The free messaging window after click-to-WhatsApp ads extended from 72 hours to 7 days. (official)
+- **September, Meta** (unconfirmed). You can advertise on Threads without an Instagram account. Ads appeared in Instagram live streams.
+- **2026, WhatsApp.** Status ads and promoted channels available in the EU. (media reports)
+- **May, Meta.** Website purchaser audiences can be kept for up to 730 days. (practice)
+- **Clarification 11.2026.** The claim that partnership ads are mandatory for branded content wasn't confirmed by official Meta sources.
 - **August, Meta.** The Messenger Stories placement removed.
 - **July, Meta.** The Instagram Explore placement removed (via the API).
 - **May, TikTok.** The Smart+ autopilot can be turned on in parts: separately for audience, budget, placements. (official)

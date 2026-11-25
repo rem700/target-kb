@@ -12,16 +12,16 @@ One example runs through this whole base. Anya makes handmade candles and sells 
 **If you're a complete beginner**, follow this route: [Basics and numbers](01-basics.md) → [Setting up from scratch](setup.md) → [Meta Ads Manager](02-meta.md) → [Creatives](03-creatives.md) → [Tracking](04-tracking.md) → [Anya's campaign from start to finish](case-study.md). Each section takes 5–10 minutes.
 
 **Getting started**
-: [Basics and numbers](01-basics.md) · [Glossary](glossary.md) · [Choosing a platform](platforms.md) · [Setting up from scratch](setup.md) · [Payment, invoices and taxes](billing.md)
+: [Basics and numbers](01-basics.md) · [Glossary](glossary.md) · [Interface names](interface-terms.md) · [Choosing a platform](platforms.md) · [Setting up from scratch](setup.md) · [Payment, invoices and taxes](billing.md)
 
 **Launching ads**
-: [Meta Ads Manager](02-meta.md) · [Creatives](03-creatives.md) · [Copywriting formulas](copywriting.md) · [Where the ad leads](landing.md) · [Ads that open a chat](messaging.md) · [Tracking](04-tracking.md) · [TikTok](06-tiktok.md)
+: [Meta Ads Manager](02-meta.md) · [Warm audiences and the funnel](audiences.md) · [Creatives](03-creatives.md) · [Filming on your phone](video.md) · [Copywriting formulas](copywriting.md) · [Ads in several languages](multilingual.md) · [Where the ad leads](landing.md) · [Ads that open a chat](messaging.md) · [New placements](placements.md) · [Tracking](04-tracking.md) · [TikTok](06-tiktok.md)
 
 **Growth and analysis**
-: [Tests and problems](05-testing.md) · [Benchmarks](benchmarks.md) · [Seasonal calendar](calendar.md) · [Organic posts and ads](organic-paid.md) · [Non-obvious things](08-hidden.md)
+: [Reading reports](reports.md) · [Tests and problems](05-testing.md) · [Benchmarks](benchmarks.md) · [Seasonal calendar](calendar.md) · [Organic posts and ads](organic-paid.md) · [AI in practice](ai-tools.md) · [Non-obvious things](08-hidden.md)
 
 **Practice**
-: [Anya's full campaign](case-study.md) · [Playbooks by business type](playbooks.md) · [Templates](templates.md) · [Problem cases](09-problem-cases.md)
+: [Anya's full campaign](case-study.md) · [Playbooks by business type](playbooks.md) · [Templates](templates.md) · [Working with a contractor](contractors.md) · [Problem cases](09-problem-cases.md)
 
 **Rules**
 : [Restrictions and moderation](07-restrictions.md) · [Law and transparency](legal.md)

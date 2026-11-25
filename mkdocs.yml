@@ -1,16 +1,21 @@
 site_name: База знаний по таргету
 site_description: Targeted ads knowledge base — Meta, TikTok
 site_url: https://rem700.github.io/target-kb/
+repo_url: https://github.com/rem700/target-kb
+repo_name: rem700/target-kb
+edit_uri: edit/main/docs/
 docs_dir: docs
 
 theme:
   name: material
+  custom_dir: overrides
   language: ru
   features:
     - navigation.top
     - navigation.footer
     - search.highlight
     - content.code.copy
+    - content.action.edit
     - content.tooltips
     - navigation.sections
     - navigation.indexes
@@ -24,32 +29,43 @@ theme:
       primary: indigo
       toggle: { icon: material/weather-sunny, name: Light }
 
+hooks:
+  - hooks/page_description.py
+
 nav:
   - index.md
   - Старт:
       - 01-basics.md
       - glossary.md
+      - interface-terms.md
       - platforms.md
       - setup.md
       - billing.md
   - Запуск рекламы:
       - 02-meta.md
+      - audiences.md
       - 03-creatives.md
+      - video.md
       - copywriting.md
+      - multilingual.md
       - landing.md
       - messaging.md
+      - placements.md
       - 04-tracking.md
       - 06-tiktok.md
   - Рост и анализ:
+      - reports.md
       - 05-testing.md
       - benchmarks.md
       - calendar.md
       - organic-paid.md
+      - ai-tools.md
       - 08-hidden.md
   - Практика:
       - case-study.md
       - playbooks.md
       - templates.md
+      - contractors.md
       - 09-problem-cases.md
   - Правила:
       - 07-restrictions.md
@@ -102,7 +118,11 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - abbr
   - attr_list
   - pymdownx.snippets:

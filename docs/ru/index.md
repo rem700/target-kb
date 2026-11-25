@@ -12,16 +12,16 @@
 **Если вы совсем новичок**, пройдите этот маршрут: [Основы и цифры](01-basics.md) → [Подготовка с нуля](setup.md) → [Кабинет Meta](02-meta.md) → [Креативы](03-creatives.md) → [Трекинг](04-tracking.md) → [Кампания Ани от начала до конца](case-study.md). Каждый раздел — на 5–10 минут.
 
 **Старт**
-: [Основы и цифры](01-basics.md) · [Словарик](glossary.md) · [Какую площадку выбрать](platforms.md) · [Подготовка с нуля](setup.md) · [Оплата, счета и налоги](billing.md)
+: [Основы и цифры](01-basics.md) · [Словарик](glossary.md) · [Названия в интерфейсе](interface-terms.md) · [Какую площадку выбрать](platforms.md) · [Подготовка с нуля](setup.md) · [Оплата, счета и налоги](billing.md)
 
 **Запуск рекламы**
-: [Кабинет Meta](02-meta.md) · [Креативы](03-creatives.md) · [Формулы текстов](copywriting.md) · [Куда ведёт реклама](landing.md) · [Реклама в переписку](messaging.md) · [Трекинг](04-tracking.md) · [TikTok](06-tiktok.md)
+: [Кабинет Meta](02-meta.md) · [Тёплая аудитория и воронка](audiences.md) · [Креативы](03-creatives.md) · [Съёмка на телефон](video.md) · [Формулы текстов](copywriting.md) · [Реклама на нескольких языках](multilingual.md) · [Куда ведёт реклама](landing.md) · [Реклама в переписку](messaging.md) · [Новые места показа](placements.md) · [Трекинг](04-tracking.md) · [TikTok](06-tiktok.md)
 
 **Рост и анализ**
-: [Тесты и проблемы](05-testing.md) · [Ориентиры по цифрам](benchmarks.md) · [Сезонный календарь](calendar.md) · [Обычные посты и реклама](organic-paid.md) · [Неочевидные вещи](08-hidden.md)
+: [Как читать отчёты](reports.md) · [Тесты и проблемы](05-testing.md) · [Ориентиры по цифрам](benchmarks.md) · [Сезонный календарь](calendar.md) · [Обычные посты и реклама](organic-paid.md) · [Нейросети на практике](ai-tools.md) · [Неочевидные вещи](08-hidden.md)
 
 **Практика**
-: [Кампания Ани целиком](case-study.md) · [Сценарии по типам бизнеса](playbooks.md) · [Шаблоны](templates.md) · [Проблемные кейсы](09-problem-cases.md)
+: [Кампания Ани целиком](case-study.md) · [Сценарии по типам бизнеса](playbooks.md) · [Шаблоны](templates.md) · [Работа с подрядчиком](contractors.md) · [Проблемные кейсы](09-problem-cases.md)
 
 **Правила**
 : [Ограничения и модерация](07-restrictions.md) · [Право и прозрачность](legal.md)
