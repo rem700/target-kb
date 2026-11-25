@@ -21,7 +21,7 @@
 : [Як читати звіти](reports.md) · [Тести та проблеми](05-testing.md) · [Орієнтири за цифрами](benchmarks.md) · [Сезонний календар](calendar.md) · [Звичайні пости й реклама](organic-paid.md) · [Нейромережі на практиці](ai-tools.md) · [Неочевидні речі](08-hidden.md)
 
 **Практика**
-: [Кампанія Ані повністю](case-study.md) · [Сценарії за типами бізнесу](playbooks.md) · [Шаблони](templates.md) · [Робота з підрядником](contractors.md) · [Проблемні кейси](09-problem-cases.md)
+: [Кампанія Ані повністю](case-study.md) · [Сценарії за типами бізнесу](playbooks.md) · [Шаблони](templates.md) · [Робота з підрядником](contractors.md) · [Проблемні кейси](09-problem-cases.md) · [Підтримка Meta та збої](support.md)
 
 **Правила**
 : [Обмеження та модерація](07-restrictions.md) · [Право й прозорість](legal.md)

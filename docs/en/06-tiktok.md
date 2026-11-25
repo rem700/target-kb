@@ -62,8 +62,17 @@ TikTok Shop is a store inside the app: people see a product in a video and buy i
 **A video "deflated" fast**
 : on TikTok fatigue sets in faster than on Meta. Keep a stock of new videos.
 
+**Ad rejected for its text or design**
+: TikTok's official list includes non-obvious reasons: symbols instead of letters ("S@le"), grammar mistakes, cut-off text in videos, text or logos covered by stickers, third-party logos without permission, exaggerated claims ("No. 1 in the world"). For online shops — no clear return policy on the site.
+
+**The wrong objective**
+: TikTok optimizes for exactly what you asked. The "Reach" objective gives lots of cheap views but few buyers. For sales, choose an objective with website conversions.
+
+**A fragmented budget**
+: a small budget split across many ad groups means none of them learns. As with Meta, fewer groups is better.
+
 **A Spark Ads code stopped working**
-: codes have an expiry set by the post's author. Ask the creator for a new code for the period you need.
+: codes have an expiry chosen by the post's author: 7, 30 or 60 days. Ask the creator for a new code for the period you need.
 
 **Negative comments**
 : reply calmly, hide insults. Aggressive comments drag the ad's results down.
@@ -73,6 +82,7 @@ TikTok Shop is a store inside the app: people see a product in a video and buy i
 - Music in ads must be licensed.
 
 ## Sources
+- [TikTok — Common reasons ads fail review](https://ads.tiktok.com/help/article?aid=14060)
 - [TikTok: how Smart+ works](https://ads.tiktok.com/business/en/blog/smart-plus-ai-performance-solution)
 - [TikTok: automating commerce campaigns and Smart+ Catalog budgets](https://ads.tiktok.com/business/en-GB/blog/tiktok-peak-season-automation)
 - [TikTok: TikTok Shop expands across Europe](https://newsroom.tiktok.com/tiktok-shop-expands-across-europe?lang=en-150)

@@ -52,12 +52,24 @@ Find the symptom and check the likely causes.
 **It was good, now it's bad**
 : most likely ad fatigue: frequency up, fewer clicks. You need new videos. Other options: season, competitors, platform changes (see "What's new") or broken tracking.
 
+## How to consolidate campaigns without losing results
+A simple structure is better, but switching to it abruptly is risky. A common forum complaint: "I consolidated my account and performance collapsed." The reason: the new combined campaign starts from zero, with no history and no learning. (practice)
+
+How to switch gradually:
+
+1. **Don't switch the old ones off at once.** Create the new combined campaign alongside them.
+2. Move the **best ads into it via post ID** — with their likes and comments.
+3. Start with a small share of the budget (20–30%) and **shift money in steps** every few days.
+4. Switch old campaigns off one by one, weakest first, once the new one has exited learning and holds your cost per customer.
+5. The whole move takes 1–3 weeks, not one evening.
+
 ## Work rhythm
 - **Daily, 5 minutes:** how much was spent, how many results, any rejected ads or payment issues.
 - **Weekly:** switch off weak ads, add new videos, compare leads with real sales.
 - **Monthly:** recalculate how much you can spend per customer and decide what to scale.
 
 ## Sources
+- [IdeaFast — Reddit Facebook Ads pain points 2026](https://www.ideafast.pro/pains/facebookads)
 - [Madgicx — media buying strategies on Meta](https://madgicx.com/answers/which-media-buying-strategies-work-on-meta)
 - [Jon Loomer — 19 rules for successful Meta advertising](https://www.jonloomer.com/19-rules-of-successful-meta-advertising/)
 - [PixelFlow — Meta Ads checklist 2026](https://pixelflow.so/blog/meta-ads-checklist-2026)

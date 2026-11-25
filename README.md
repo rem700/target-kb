@@ -10,7 +10,7 @@ Built with MkDocs Material. Three languages: Russian (default), English (`/en/`)
 - **Getting started:** basics and numbers, glossary, interface names (EN/RU/UK/HU), choosing a platform, setting up from scratch, payment/invoices/taxes
 - **Launching ads:** Meta Ads Manager, warm audiences and the funnel, creatives, filming on a phone, copywriting formulas, ads in several languages, landing pages, click-to-chat ads, new placements, tracking, TikTok
 - **Growth and analysis:** reading reports, tests and problems, benchmarks, seasonal calendar, organic + paid, AI in practice, non-obvious things
-- **Practice:** a full example campaign, playbooks by business type, templates, working with a contractor, problem cases
+- **Practice:** a full example campaign, playbooks by business type, templates, working with a contractor, problem cases, Meta support and outages
 - **Rules:** restrictions and moderation, law and transparency (EU)
 - **What's new:** changelog of platform updates
 

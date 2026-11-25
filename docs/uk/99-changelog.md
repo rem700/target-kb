@@ -5,6 +5,7 @@
 Позначки: (офіц.) оголосила сама платформа; (не підтверджено) повідомляють фахівці, офіційного підтвердження немає.
 
 ## 2026
+- **Жовтень, Meta.** За квартальним звітом Meta середня ціна реклами за рік зросла на 14% у світі й на 23% у США та Канаді. **Що це означає:** оцінюйте рекламу за ціною клієнта, а не за CPM. (офіц.)
 - **Жовтень, Meta.** Прибрали рекламу-опитування у Facebook.
 - **Вересень, Meta.** Стовпець «Різноманітність креативів» в Ads Manager (попередній). Партнерська реклама доступна в статусах WhatsApp. (практика)
 - **28 вересня, WhatsApp.** Безкоштовне вікно листування після реклами з переходом у WhatsApp збільшено з 72 годин до 7 днів. (офіц.)
@@ -34,6 +35,7 @@
 - Галузеві новини: ppc.land, socialmediatoday.com, searchengineland.com
 
 ## Джерела
+- [Single Grain — Meta Q3 2026 ad prices](https://singlegrain.com/blog-posts/facebook-ads-cost)
 - [AdAdvisor — Meta Ads updates 2026](https://adadvisor.ai/blog/meta-ads-updates-2026)
 - [Search Engine Land — attribution update, March 2026](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629)
 - [Meta for Developers — removal of detailed targeting exclusions](https://developers.facebook.com/blog/post/2025/01/21/removal-of-detailed-targeting-exclusions/)

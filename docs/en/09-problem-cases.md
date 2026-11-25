@@ -66,6 +66,8 @@ Real situations almost everyone who runs ads ends up in. Each one has: what you 
 4. Submit a calm, factual review request.
 5. Don't wait: you only have 180 days to appeal, after which the block becomes permanent.
 
+How to contact support and pass an identity check — see [Meta support and outages](support.md).
+
 **How to avoid it.** Don't create a new ad account to get around a block: Meta links accounts, and the ban will spread. Verified business, two-factor authentication, no sudden budget jumps on a fresh account.
 
 ---

@@ -5,6 +5,7 @@ Platforms change things all the time, and what worked a year ago may not work no
 Tags: (official) announced by the platform itself; (unconfirmed) reported by specialists, no official confirmation.
 
 ## 2026
+- **October, Meta.** According to Meta's quarterly results, the average price per ad rose 14% year over year worldwide and 23% in the US and Canada. **What it means:** judge ads by cost per customer, not CPM. (official)
 - **October, Meta.** Poll ads on Facebook removed.
 - **September, Meta.** Creative diversity column in Ads Manager (estimated). Partnership ads available in WhatsApp Status. (practice)
 - **28 September, WhatsApp.** The free messaging window after click-to-WhatsApp ads extended from 72 hours to 7 days. (official)
@@ -34,6 +35,7 @@ Tags: (official) announced by the platform itself; (unconfirmed) reported by spe
 - Industry news: ppc.land, socialmediatoday.com, searchengineland.com
 
 ## Sources
+- [Single Grain — Meta Q3 2026 ad prices](https://singlegrain.com/blog-posts/facebook-ads-cost)
 - [AdAdvisor — Meta Ads updates 2026](https://adadvisor.ai/blog/meta-ads-updates-2026)
 - [Search Engine Land — attribution update, March 2026](https://searchengineland.com/meta-introduces-click-and-engage-through-attribution-updates-470629)
 - [Meta for Developers — removal of detailed targeting exclusions](https://developers.facebook.com/blog/post/2025/01/21/removal-of-detailed-targeting-exclusions/)

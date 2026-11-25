@@ -21,7 +21,7 @@ One example runs through this whole base. Anya makes handmade candles and sells 
 : [Reading reports](reports.md) · [Tests and problems](05-testing.md) · [Benchmarks](benchmarks.md) · [Seasonal calendar](calendar.md) · [Organic posts and ads](organic-paid.md) · [AI in practice](ai-tools.md) · [Non-obvious things](08-hidden.md)
 
 **Practice**
-: [Anya's full campaign](case-study.md) · [Playbooks by business type](playbooks.md) · [Templates](templates.md) · [Working with a contractor](contractors.md) · [Problem cases](09-problem-cases.md)
+: [Anya's full campaign](case-study.md) · [Playbooks by business type](playbooks.md) · [Templates](templates.md) · [Working with a contractor](contractors.md) · [Problem cases](09-problem-cases.md) · [Meta support and outages](support.md)
 
 **Rules**
 : [Restrictions and moderation](07-restrictions.md) · [Law and transparency](legal.md)
