@@ -43,6 +43,12 @@ def main() -> int:
             text = (ROOT / "docs" / lang / page).read_text(encoding="utf-8")
             if CHECKED[lang] not in text:
                 problems.append(f"[{lang}] {page}: no '{CHECKED[lang]}' date line")
+            if not text.startswith("---\n") or "\ndescription:" not in text.split("---", 2)[1]:
+                problems.append(f"[{lang}] {page}: no 'description:' in front matter (needed for SEO)")
+            else:
+                desc_line = [l for l in text.split("---", 2)[1].splitlines() if l.startswith("description:")][0]
+                if len(desc_line) - len("description: ") - 2 > 160:
+                    problems.append(f"[{lang}] {page}: description longer than 160 characters")
             if f'--8<-- "abbr-{lang}.md"' not in text:
                 problems.append(f"[{lang}] {page}: tooltip include line missing")
     for page in sorted(all_pages - in_nav):
