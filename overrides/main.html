@@ -9,6 +9,7 @@
 {% endblock %}
 
 {% block extrahead %}
+  <meta name="google-site-verification" content="ad0nEQH-R-hPkkBqwnuBNHYW-AFU802bNQxj_M14I7s">
   {% set lang = config.theme.language %}
   {% set locales = {"ru": "ru_RU", "en": "en_GB", "uk": "uk_UA"} %}
   {% set title = page.meta.seo_title if page and page.meta and page.meta.seo_title else ((page.title ~ " – " ~ config.site_name) if page and page.title and not page.is_homepage else config.site_name) %}
