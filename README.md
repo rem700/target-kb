@@ -45,6 +45,14 @@ Every push to `main` rebuilds and publishes the site automatically (1–2 minute
 - **Diagrams** are written in Mermaid inside ```` ```mermaid ```` blocks.
 - **Page descriptions** for search engines and social previews are taken from the first paragraph automatically (`hooks/page_description.py`); set `description:` in a page's front matter to override.
 
+## SEO
+
+- Every page has a hand-written `description:` in its front matter (max 160 characters, checked in CI). It becomes the meta description, `og:description` and the JSON-LD description. Write it for search: what the page answers, with the words people actually type.
+- Home pages also set `seo_title:` for a keyword-rich `<title>`.
+- `hooks/seo.py` makes hreflang links absolute, adds `x-default` (Russian) and adds JSON-LD (`WebSite`, `TechArticle`, `BreadcrumbList`).
+- `overrides/main.html` adds Open Graph / Twitter tags with `og:locale` and a per-language preview image from `overrides/assets/og/`.
+- The sitemap (`sitemap.xml`) is built automatically with all three languages.
+
 ## Local preview
 ```
 pip install -r requirements.txt
