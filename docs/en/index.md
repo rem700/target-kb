@@ -1,3 +1,8 @@
+---
+description: "Meta, Instagram, Facebook and TikTok ads explained simply: a 2026 knowledge base for beginners. Setup, creatives, tracking, mistakes and fixes."
+seo_title: "Meta, Instagram, Facebook and TikTok Ads — Beginner's Knowledge Base 2026"
+---
+
 # Targeted ads without the boring bits
 
 A knowledge base for people who have heard of "targeted ads" but aren't quite sure what goes on inside. Up to date as of November 2026. Mostly about Instagram and Facebook ads (both owned by Meta), with a bit on TikTok.

@@ -1,3 +1,7 @@
+---
+description: "Seasonal advertising calendar: when ad costs rise and when to launch campaigns for holidays and Black Friday in Europe and Hungary."
+---
+
 # Seasonal calendar
 
 Ad prices change over the year. Before big holidays everyone advertises and impressions get pricier; afterwards they get cheaper. Knowing this in advance means less panic and less overpaying.

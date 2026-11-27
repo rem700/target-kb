@@ -1,3 +1,7 @@
+---
+description: "Running ads in several languages in Hungary and the EU: Meta language targeting, multi-language ads, translation and tourists."
+---
+
 # Ads in several languages
 
 One city can be home to people speaking different languages. In Budapest there are Hungarians, expats, students, tourists, Ukrainian and Russian speakers. Which language should your ads use, and how do you avoid confusing the robot?

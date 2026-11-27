@@ -1,3 +1,7 @@
+---
+description: "Meta ads basics: how campaigns are structured, key terms, CPM, CTR, CPA and ROAS, and how to work out what you can pay per customer."
+---
+
 # Basics and numbers
 
 ## How an ad is built: three floors

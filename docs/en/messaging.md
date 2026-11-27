@@ -1,3 +1,7 @@
+---
+description: "Click-to-Direct and click-to-WhatsApp ads: setup, the 7-day free messaging window, first-reply scripts and handling \"how much is it?\"."
+---
+
 # Ads that open a chat
 
 Instead of a site or form, the ad opens a chat: Instagram Direct, Messenger or WhatsApp. For services where customers need to clarify something (date, size, price for their case), this is often the best option: it's easier to send a message than fill in a form.

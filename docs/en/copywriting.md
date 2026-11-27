@@ -1,3 +1,7 @@
+---
+description: "How to write Instagram and Facebook ad copy: AIDA, PAS, Before-After-Bridge and 4U formulas with headline and hook examples."
+---
+
 # Copywriting formulas
 
 Ad copy doesn't need to be a masterpiece. It should continue the video's idea and nudge towards one action. Formulas help you avoid starting from a blank page.

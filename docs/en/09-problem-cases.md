@@ -1,3 +1,7 @@
+---
+description: "14 common Meta and TikTok ad problems with fixes: junk leads, disabled or hacked ad accounts, Learning Limited, high CPM and more."
+---
+
 # Problem cases
 
 Real situations almost everyone who runs ads ends up in. Each one has: what you see, why it happens, what to do right now, and how to avoid it next time.

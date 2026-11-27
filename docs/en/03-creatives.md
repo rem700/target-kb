@@ -1,3 +1,7 @@
+---
+description: "Ad creatives in 2026: why your images and videos choose the audience (Andromeda), what videos to make, hooks, formats and creative fatigue."
+---
+
 # Creatives: why the picture decides
 
 ## The big news of recent years

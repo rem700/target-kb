@@ -1,3 +1,7 @@
+---
+description: "How to contact Meta support, pass an identity check after a block, and what to do when Ads Manager has an outage."
+---
+
 # Meta support, identity checks and outages
 
 Sooner or later something breaks: the account is blocked, money is charged oddly, ads behave strangely. And it turns out there's nowhere to call. Here's what actually works.

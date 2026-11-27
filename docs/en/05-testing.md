@@ -1,3 +1,7 @@
+---
+description: "Testing and scaling Meta ads: A/B test rules, what resets learning, how to consolidate campaigns safely and what to do when ads stop working."
+---
+
 # Tests and problems
 
 ## How to try new things without breaking what works

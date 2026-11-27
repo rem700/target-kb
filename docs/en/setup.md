@@ -1,3 +1,7 @@
+---
+description: "How to set up Meta ads from scratch: business portfolio, Page, Instagram, ad account, pixel, Conversions API and domain verification, step by step."
+---
+
 # Setting up from scratch
 
 Before your first ad, you need to assemble the "kit": a business account, a Page, Instagram, an ad account, payment and a pixel. Order matters: skip a step and things start "not connecting" later. It takes 30–60 minutes.

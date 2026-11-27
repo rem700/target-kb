@@ -1,3 +1,7 @@
+---
+description: "EU advertising law basics: paid partnership labels for creators, DSA transparency, GDPR and cookies, discount rules, reviews and AI."
+---
+
 # Law and transparency
 
 Legal points that affect almost any ad in the EU. This isn't legal advice: rules differ by country, and in disputed cases it's better to check with a lawyer.

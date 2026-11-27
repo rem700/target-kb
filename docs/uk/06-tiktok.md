@@ -1,3 +1,7 @@
+---
+description: "Реклама в TikTok у 2026: кабінет і Business Center, Smart+, Spark Ads, TikTok Shop у Європі, причини відхилення й часті проблеми."
+---
+
 # TikTok: інші правила гри
 
 ## Чим TikTok відрізняється від Instagram

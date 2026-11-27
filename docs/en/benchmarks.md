@@ -1,3 +1,7 @@
+---
+description: "Average CTR, CPC, CPM and cost per lead for Meta ads in 2026, CPM by European country and rising ad prices. How to compare your results."
+---
+
 # Benchmarks
 
 "My CTR is 1.2% — is that good?" Without reference points you can't tell. Below are averages from public 2026 reports.

@@ -1,3 +1,7 @@
+---
+description: "Paying for Meta and TikTok ads: billing threshold, prepaid funds, spending limits, invoices and VAT for EU businesses, common payment issues."
+---
+
 # Payment, invoices and taxes
 
 Money is the most boring part of advertising — and the most unpleasant when something goes wrong. Here's how Meta takes payment, what to do with invoices and why your VAT number matters.

@@ -1,5 +1,5 @@
 site_name: База знаний по таргету
-site_description: Targeted ads knowledge base — Meta, TikTok
+site_description: Таргетированная реклама в Instagram, Facebook и TikTok простым языком — база знаний 2026 для новичков
 site_url: https://rem700.github.io/target-kb/
 repo_url: https://github.com/rem700/target-kb
 repo_name: rem700/target-kb
@@ -31,6 +31,7 @@ theme:
 
 hooks:
   - hooks/page_description.py
+  - hooks/seo.py
 
 nav:
   - index.md
@@ -89,6 +90,7 @@ plugins:
           name: English
           build: true
           site_name: Targeted Ads Knowledge Base
+          site_description: Meta, Instagram, Facebook and TikTok ads explained simply — a 2026 knowledge base for beginners
           nav_translations:
             Старт: Getting started
             Запуск рекламы: Launching ads
@@ -99,6 +101,7 @@ plugins:
           name: Українська
           build: true
           site_name: База знань з таргету
+          site_description: Таргетована реклама в Instagram, Facebook і TikTok простою мовою — база знань 2026 для новачків
           nav_translations:
             Старт: Старт
             Запуск рекламы: Запуск реклами

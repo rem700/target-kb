@@ -1,3 +1,7 @@
+---
+description: "Meta and TikTok ads changelog 2025–2026: attribution, Advantage+, placements, WhatsApp, EU restrictions and what each change means."
+---
+
 # What's new: changelog
 
 Platforms change things all the time, and what worked a year ago may not work now. This page records what changed, when, and what it means in practice. Newest at the top.

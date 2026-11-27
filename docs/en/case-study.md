@@ -1,3 +1,7 @@
+---
+description: "A full ad campaign example from start to finish: preparation, launch, mistakes, tests and two months of results with numbers."
+---
+
 # Anya's campaign from start to finish
 
 One example from setup to results over two months. Anya and her candle workshop are made up and the numbers are illustrative, but the mistakes and decisions are typical. The point is to show how the sections of this base fit together into real work.

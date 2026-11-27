@@ -1,3 +1,7 @@
+---
+description: "Paid social templates: unit economics, creative brief, test log, weekly report and a pre-launch checklist for ads."
+---
+
 # Templates
 
 Ready-made templates: copy them into notes, Google Sheets or Notion and fill them in.

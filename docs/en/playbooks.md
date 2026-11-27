@@ -1,3 +1,7 @@
+---
+description: "How different businesses should run ads: online shop, booked services, local business, events, healthcare and B2B."
+---
+
 # Playbooks by business type
 
 The general rules are the same, but an online shop and a beauty salon launch ads differently. Here are ready starting points — not strict instructions, but "where to begin if you don't know where to begin".

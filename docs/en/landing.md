@@ -1,3 +1,7 @@
+---
+description: "Where to send ad traffic: a landing page and Instagram profile checklist so clicks turn into purchases and leads."
+---
+
 # Where the ad leads: site and profile
 
 The ad's job is to get the click. Whether the person buys depends on what they see after it. A great ad leading to a poor page is like a beautiful sign above a locked door.

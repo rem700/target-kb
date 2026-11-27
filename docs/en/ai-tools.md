@@ -1,3 +1,7 @@
+---
+description: "AI for paid social: Advantage+ creative features, ChatGPT and Claude for copy and briefs, and how to avoid generic, \"plastic\" ads."
+---
+
 # AI in practice
 
 AI saves hours of work, but it can make your ads look just like your competitors'. Here's how to use it well.

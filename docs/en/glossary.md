@@ -1,3 +1,7 @@
+---
+description: "Paid social glossary: what CPM, CTR, CAPI, Advantage+, retargeting, lookalike, attribution and other Meta and TikTok ads terms mean."
+---
+
 # Glossary
 
 All the terms from this base in one place, alphabetically. Across the base you can hover over (or tap on a phone) any abbreviation to see a tooltip.

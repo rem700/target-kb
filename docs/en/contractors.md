@@ -1,3 +1,7 @@
+---
+description: "How to hire a Meta ads specialist or agency: red flags, the brief, giving ad account access safely and keeping control of results."
+---
+
 # Working with a contractor
 
 Sooner or later you'll want to hand ads to a specialist. It can save time and money — or cost you both. How to choose, brief and stay in control.

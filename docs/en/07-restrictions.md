@@ -1,3 +1,7 @@
+---
+description: "Meta advertising policies: health and wellness in the EU, personal attributes, special ad categories, rejection and ban reasons."
+---
+
 # Restrictions: where you can trip up
 
 ## The main rule: don't "read people's minds"

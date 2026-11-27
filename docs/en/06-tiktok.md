@@ -1,3 +1,7 @@
+---
+description: "TikTok ads in 2026: Business Center and Ads Manager, Smart+, Spark Ads, TikTok Shop in Europe, rejection reasons and common problems."
+---
+
 # TikTok: different rules of the game
 
 ## How TikTok differs from Instagram

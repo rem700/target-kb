@@ -1,3 +1,7 @@
+---
+description: "Hidden Meta Ads settings switched on by default: creative enhancements, location expansion, spend on excluded placements, value rules and more."
+---
+
 # Non-obvious things
 
 Things beginner guides don't mention but that seriously affect your money. Many of them are on by default and quietly work against you.

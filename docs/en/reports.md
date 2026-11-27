@@ -1,3 +1,7 @@
+---
+description: "How to read Meta Ads Manager reports: columns, breakdowns by placement, age and region, comparing periods and saved reports."
+---
+
 # Reading reports in Ads Manager
 
 Ads are live, numbers are coming in. Now the key is not to drown in a hundred columns. Here's where things are and what to look at.

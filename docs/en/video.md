@@ -1,3 +1,7 @@
+---
+description: "How to film Reels and TikTok ads on your phone: light, sound, framing, editing in CapCut, subtitles and batch shooting."
+---
+
 # Filming videos on your phone
 
 Reels and TikTok ads don't need a studio. They need a phone, window light and an understanding of what makes a video watchable. Here's the minimum that gives 80% of the result.

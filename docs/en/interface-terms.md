@@ -1,3 +1,7 @@
+---
+description: "Meta Ads Manager button and setting names in English, Russian, Ukrainian and Hungarian: an interface translation table."
+---
+
 # Interface names
 
 This base describes settings in plain words. In Ads Manager they have their own names, which depend on the interface language. This table helps you find the right button whether your Ads Manager is in English, Russian, Ukrainian or Hungarian.

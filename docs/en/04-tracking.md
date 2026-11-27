@@ -1,3 +1,7 @@
+---
+description: "Meta ads tracking: pixel, Conversions API, deduplication, UTM parameters and 2026 attribution. Why Ads Manager and CRM numbers differ."
+---
+
 # Tracking: how to tell the ads are working
 
 ## Why bother

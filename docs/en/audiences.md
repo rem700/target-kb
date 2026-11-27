@@ -1,3 +1,7 @@
+---
+description: "Warm audiences and the funnel: Meta custom audiences (website, Instagram, video), retention windows, and when retargeting still makes sense."
+---
+
 # Warm audiences and the funnel
 
 Not everyone is equally ready to buy. Some see you for the first time, some have visited your site three times. The funnel is a simple way to think about this.

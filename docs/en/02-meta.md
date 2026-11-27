@@ -1,3 +1,7 @@
+---
+description: "How to set up campaigns in Meta Ads Manager in 2026: objectives, Advantage+, broad audiences, account structure, budgets, bidding and placements."
+---
+
 # Meta Ads Manager: launching an ad
 
 Meta Ads Manager is like an aeroplane cockpit: a hundred buttons, and you only need about ten. Here they are.

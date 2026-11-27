@@ -1,3 +1,7 @@
+---
+description: "Where to advertise: Instagram and Facebook, TikTok, Google, YouTube, Pinterest or LinkedIn. How to pick your first ad platform."
+---
+
 # Choosing a platform
 
 Strictly speaking, targeted ads means social media ads. But it's worth choosing with the neighbouring options in mind. The key question: **is the person already looking for what you sell, or not yet?**

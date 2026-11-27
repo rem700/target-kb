@@ -1,3 +1,7 @@
+---
+description: "New Meta ad placements in 2026: Threads, WhatsApp Status ads in the EU, removed placements and how to check if a placement works."
+---
+
 # New placements
 
 Beyond Feed, Stories and Reels, Meta keeps adding new places where your ads can appear. With Advantage+ placements on, they're included automatically — so it's worth knowing what they are and how they look.

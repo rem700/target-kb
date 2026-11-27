@@ -1,3 +1,7 @@
+---
+description: "Organic and paid together: how to pick posts to promote, run them via Ads Manager, handle comments and work with creators."
+---
+
 # Organic posts and ads
 
 Regular posts (organic) and ads aren't two separate worlds. They work best together: organic shows what lands, ads give it reach.
